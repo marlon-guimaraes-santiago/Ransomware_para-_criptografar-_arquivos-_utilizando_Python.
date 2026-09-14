@@ -1,0 +1,1 @@
+# Ransomware_para-_criptografar-_arquivos-_utilizando_Python.
